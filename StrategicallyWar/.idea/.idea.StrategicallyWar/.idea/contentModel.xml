@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Gregorio Benatti\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Gregorio Benatti\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_StrategicallyWar.-1400093827.00" t="ExcludeRecursive" />
+    <e p="D:\git-greg\udemy_gamedev_Blackthornprod_StrategyGameCourse\StrategicallyWar" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Fonts" t="Include">
+          <e p="Mansalva" t="Include">
+            <e p="OFL.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="GameMaster.cs" t="Include" />
+          <e p="not_in_use" t="Include">
+            <e p="CharacterCreation.cs" t="Include" />
+            <e p="Clouds.cs" t="Include" />
+            <e p="CursorFollow.cs" t="Include" />
+            <e p="DamageIcon.cs" t="Include" />
+            <e p="Destroyer.cs" t="Include" />
+            <e p="GM.cs" t="Include" />
+            <e p="HoverEffect.cs" t="Include" />
+            <e p="RandomSprite.cs" t="Include" />
+            <e p="Tile.cs" t="Include" />
+            <e p="Unit.cs" t="Include" />
+            <e p="Village.cs" t="Include" />
+          </e>
+          <e p="Tile.cs" t="Include" />
+          <e p="Unit.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="StrategicallyWar.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

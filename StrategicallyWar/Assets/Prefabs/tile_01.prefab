@@ -69,8 +69,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 624938729
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1561205615984820651, guid: 609a937ade0996042a6e92cc6d710cc6,
     type: 3}
@@ -111,7 +111,7 @@ MonoBehaviour:
   obstacleLayer:
     serializedVersion: 2
     m_Bits: 256
-  highlightedColor: {r: 0, g: 0.2694857, b: 1, a: 1}
+  highlightedColor: {r: 0.5801887, g: 0.6937848, b: 1, a: 1}
   isWalkable: 0
 --- !u!61 &4891576460074760983
 BoxCollider2D:
